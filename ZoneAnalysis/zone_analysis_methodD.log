@@ -1,0 +1,618 @@
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/Users/atiquzzamanbhuiyan/Documents/urbannerve-app/RF_CT_Pipeline/ZoneAnalysis/pipeline_common.py:115: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+
+=== Method D — Zone: early (slices 100-199) ===
+  volume shape: (100, 525, 497)
+  n=1589, n_seeds=1700, mean=246.5um, std=109.5um, elapsed=36.3s
+
+=== Method D — Zone: mid (slices 350-449) ===
+  volume shape: (100, 525, 497)
+  n=2272, n_seeds=2433, mean=240.1um, std=107.0um, elapsed=46.3s
+
+=== Method D — Zone: late (slices 750-849) ===
+  volume shape: (100, 525, 497)
+  n=2159, n_seeds=2329, mean=237.3um, std=103.6um, elapsed=45.8s
+
+=== Method D zone summary ===
+method  zone slice_range  n_particles  n_seeds  mean_diameter_um  median_diameter_um  std_diameter_um  min_diameter_um  max_diameter_um  elapsed_sec
+     D early     100-199         1589     1700        246.498544          221.092915       109.513698       100.269447       821.038041         36.3
+     D   mid     350-449         2272     2433        240.146149          218.328964       107.011240        99.775501       981.861767         46.3
+     D  late     750-849         2159     2329        237.332255          213.126135       103.559533        99.775501       816.660267         45.8

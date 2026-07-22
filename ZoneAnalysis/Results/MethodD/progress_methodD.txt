@@ -1,0 +1,4 @@
+Chunks completed: 10/10
+Total particles so far: 16293
+Running mean diameter: 252.9 um
+Elapsed: 28.2 min

@@ -1,0 +1,15 @@
+# Regenerable intermediate cache (feature arrays derived from CT slices + annotations)
+Results/Cache/
+
+# Trained model binaries -- too large for plain git (per-fold models total ~1.9GB)
+Results/Models/
+
+# Per-slice/per-fold visualization dumps -- regenerable, not needed for repo history
+Results/ProbabilityMaps/
+
+# ZoneAnalysis trained model -- 365MB, regenerable via train_model.py
+ZoneAnalysis/Results/combined_model.joblib
+ZoneAnalysis/Results/combined_intensity_range.joblib
+
+# OS cruft
+.DS_Store

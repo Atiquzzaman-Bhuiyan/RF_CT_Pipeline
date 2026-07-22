@@ -1,0 +1,144 @@
+{
+  "validation_mode": "loso",
+  "holdout_slice": null,
+  "folds": [
+    {
+      "fold_id": 1,
+      "train_slices": [
+        350,
+        500,
+        700,
+        800,
+        900
+      ],
+      "val_slices": [
+        151
+      ],
+      "train_files": [
+        "Copy of slice_000350.tif",
+        "Copy of slice_000500.tif",
+        "Copy of slice_000700.tif",
+        "Copy of slice_000800.tif",
+        "Copy of slice_000900.tif"
+      ],
+      "val_files": [
+        "Copy of slice_000151.tif"
+      ]
+    },
+    {
+      "fold_id": 2,
+      "train_slices": [
+        151,
+        500,
+        700,
+        800,
+        900
+      ],
+      "val_slices": [
+        350
+      ],
+      "train_files": [
+        "Copy of slice_000151.tif",
+        "Copy of slice_000500.tif",
+        "Copy of slice_000700.tif",
+        "Copy of slice_000800.tif",
+        "Copy of slice_000900.tif"
+      ],
+      "val_files": [
+        "Copy of slice_000350.tif"
+      ]
+    },
+    {
+      "fold_id": 3,
+      "train_slices": [
+        151,
+        350,
+        700,
+        800,
+        900
+      ],
+      "val_slices": [
+        500
+      ],
+      "train_files": [
+        "Copy of slice_000151.tif",
+        "Copy of slice_000350.tif",
+        "Copy of slice_000700.tif",
+        "Copy of slice_000800.tif",
+        "Copy of slice_000900.tif"
+      ],
+      "val_files": [
+        "Copy of slice_000500.tif"
+      ]
+    },
+    {
+      "fold_id": 4,
+      "train_slices": [
+        151,
+        350,
+        500,
+        800,
+        900
+      ],
+      "val_slices": [
+        700
+      ],
+      "train_files": [
+        "Copy of slice_000151.tif",
+        "Copy of slice_000350.tif",
+        "Copy of slice_000500.tif",
+        "Copy of slice_000800.tif",
+        "Copy of slice_000900.tif"
+      ],
+      "val_files": [
+        "Copy of slice_000700.tif"
+      ]
+    },
+    {
+      "fold_id": 5,
+      "train_slices": [
+        151,
+        350,
+        500,
+        700,
+        900
+      ],
+      "val_slices": [
+        800
+      ],
+      "train_files": [
+        "Copy of slice_000151.tif",
+        "Copy of slice_000350.tif",
+        "Copy of slice_000500.tif",
+        "Copy of slice_000700.tif",
+        "Copy of slice_000900.tif"
+      ],
+      "val_files": [
+        "Copy of slice_000800.tif"
+      ]
+    },
+    {
+      "fold_id": 6,
+      "train_slices": [
+        151,
+        350,
+        500,
+        700,
+        800
+      ],
+      "val_slices": [
+        900
+      ],
+      "train_files": [
+        "Copy of slice_000151.tif",
+        "Copy of slice_000350.tif",
+        "Copy of slice_000500.tif",
+        "Copy of slice_000700.tif",
+        "Copy of slice_000800.tif"
+      ],
+      "val_files": [
+        "Copy of slice_000900.tif"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+zone,slice_range,n_particles,mean_diameter_um,std_diameter_um,median_diameter_um,min_diameter_um,max_diameter_um
+full_volume,0-975,23375,230.2950956886821,95.37557304679925,208.68239273538097,99.77550097375092,763.4207536196002

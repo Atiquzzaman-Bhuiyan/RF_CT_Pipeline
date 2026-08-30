@@ -1,0 +1,48 @@
+{
+  "io_time_s": 12.154369688825682,
+  "model_load_time_s": 3.1150276779662818,
+  "n_slices": 100,
+  "slice_range": "350-449",
+  "results": [
+    {
+      "method": "A",
+      "total_s": 16.250711377011612,
+      "per_slice_s": 0.16250711377011612,
+      "n_particles_raw_labels": 2600,
+      "error": null
+    },
+    {
+      "method": "B",
+      "total_s": 24.055306235793978,
+      "per_slice_s": 0.24055306235793977,
+      "n_particles_raw_labels": 2304,
+      "error": null
+    },
+    {
+      "method": "E",
+      "total_s": 46.07057415903546,
+      "per_slice_s": 0.4607057415903546,
+      "n_particles_raw_labels": 4735,
+      "error": null
+    },
+    {
+      "method": "C",
+      "total_s": 109.23729587881826,
+      "per_slice_s": 1.0923729587881825,
+      "n_particles_raw_labels": 3328,
+      "error": null,
+      "rf_predict_s": 98.49216839298606,
+      "watershed_s": 10.7451274858322
+    },
+    {
+      "method": "D",
+      "total_s": 108.26132036186755,
+      "per_slice_s": 1.0826132036186755,
+      "n_particles_raw_labels": 2433,
+      "error": null,
+      "rf_predict_s": 82.39397513703443,
+      "watershed_s": 25.867345224833116,
+      "n_seeds": 2433
+    }
+  ]
+}

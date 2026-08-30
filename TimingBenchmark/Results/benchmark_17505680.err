@@ -1,0 +1,402 @@
+/etc/profile.d/command.sh: line 1: PROMPT_COMMAND: readonly variable
+Loading module 'python/3.9.0'
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')
+/home/ab9884/lhs1/benchmark/benchmark_methods.py:169: FutureWarning: use_gaussian_derivatives currently defaults to False, but will change to True in a future version. Please specify this argument explicitly to maintain the current behavior
+  h_elems = hessian_matrix(image, sigma=2, order='rc')

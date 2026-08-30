@@ -1,0 +1,83 @@
+==========================================
+SLURM benchmark job environment
+==========================================
+Job started: Sun Aug 30 17:26:49 +04 2026
+Node: cn105
+SLURM_JOB_ID: 17505680
+SLURM_JOB_PARTITION: compute
+SLURM_CPUS_PER_TASK: 8
+SLURM_MEM_PER_NODE: 65536
+
+--- CPU ---
+CPU(s):              128
+Thread(s) per core:  1
+Core(s) per socket:  64
+Socket(s):           2
+Model name:          AMD EPYC 7742 64-Core Processor
+CPU MHz:             2254.738
+CPU max MHz:         2250.0000
+CPU min MHz:         1500.0000
+NUMA node0 CPU(s):   0-15
+NUMA node1 CPU(s):   16-31
+NUMA node2 CPU(s):   32-47
+NUMA node3 CPU(s):   48-63
+NUMA node4 CPU(s):   64-79
+NUMA node5 CPU(s):   80-95
+NUMA node6 CPU(s):   96-111
+NUMA node7 CPU(s):   112-127
+
+--- Memory ---
+              total        used        free      shared  buff/cache   available
+Mem:          503Gi       135Gi       360Gi       2.1Gi       7.1Gi       470Gi
+Swap:            0B          0B          0B
+
+==========================================
+
+Python: Python 3.9.0  (/share/apps/NYUAD5/python/3.9.0/bin/python3)
+
+======================================================================
+SEGMENTATION METHOD TIMING BENCHMARK -- mid zone (slices 350-449)
+======================================================================
+Node: cn105
+SLURM_JOB_ID: 17505680
+SLURM_JOB_PARTITION: compute
+SLURM_CPUS_PER_TASK: 8
+SLURM_MEM_PER_NODE: 65536
+Python: 3.9.0  Platform: Linux-4.18.0-193.6.3.el8_2.x86_64-x86_64-with-glibc2.28
+scikit-learn: 1.6.1  scikit-image: 0.24.0  numpy: 2.0.2
+
+Loading mid-zone CT slices (350-449)...
+  volume shape: (100, 525, 497)  (I/O time, excluded from method timing: 12.15s)
+Loading production RF model (combined_model.joblib, same model used for the paper's zone-level results)...
+  model loaded  (load time, excluded from method timing: 3.12s)
+
+=== Method A (Otsu + distance watershed) ===
+  A: total=16.25s  per-slice=0.1625s  raw_labels=2600
+
+=== Method B (intensity-guided watershed) ===
+  B: total=24.06s  per-slice=0.2406s  raw_labels=2304
+
+=== Method E (morphological reconstruction) ===
+  E: total=46.07s  per-slice=0.4607s  raw_labels=4735
+
+=== Method C (RF classification + probability watershed) ===
+  C: total=109.24s  per-slice=1.0924s  raw_labels=3328
+    (breakdown: RF feature-extraction+predict=98.49s, watershed=10.75s)
+
+=== Method D (hybrid RF-intensity watershed) ===
+  D: total=108.26s  per-slice=1.0826s  raw_labels=2433
+    (breakdown: RF feature-extraction+predict=82.39s, hybrid watershed=25.87s, n_seeds=2433)
+
+======================================================================
+BENCHMARK SUMMARY (mid zone, slices 350-449, n=100 slices)
+======================================================================
+Method  Total (s)   Per-slice (s)   RF predict (s)  Watershed (s)  
+A       16.25       0.1625          N/A             N/A            
+B       24.06       0.2406          N/A             N/A            
+E       46.07       0.4607          N/A             N/A            
+C       109.24      1.0924          98.49           10.75          
+D       108.26      1.0826          82.39           25.87          
+
+Saved: /home/ab9884/lhs1/benchmark/benchmark_results.json
+
+Job finished: Sun Aug 30 17:34:30 +04 2026

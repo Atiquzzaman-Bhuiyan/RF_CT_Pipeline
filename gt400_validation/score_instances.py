@@ -10,7 +10,7 @@ files from Jubail first).
 Rules (declare these in the paper):
   * GT = roi5 cropped to its first --gt-slices slices (slice index 0 == CT slice 400; verified by
     --check-offset).  Labels are compacted; IDs are not otherwise changed.
-  * Size floors: a label counts only if it has >= floor voxels.  Floors 68 (100 um) and 227
+  * Size floors: a label counts only if it has >= floor voxels.  Floors 67 (100 um) and 227
     (150 um, Method E's native floor) are both reported, applied identically to GT and methods.
   * Matching uses ALL grains, edge grains included (every method sees the same cut).
   * Edge grains = labels whose cross-section on the first/last slice exceeds --edge-ratio
@@ -176,7 +176,16 @@ def evaluate(floor, gsize, gedge, gnc, msize, medge, ov, iou_thr, alt_thr):
             'gt_mean_D': round(float(g_ne.gt_D_um.mean()), 1) if len(g_ne) else np.nan,
             'n_m_nonedge': len(m_ne),
             'm_median_D': round(float(np.median(diam_um(msize[m_ne]))), 1) if len(m_ne) else np.nan,
-            'm_mean_D': round(float(np.mean(diam_um(msize[m_ne]))), 1) if len(m_ne) else np.nan}
+            'm_mean_D': round(float(np.mean(diam_um(msize[m_ne]))), 1) if len(m_ne) else np.nan,
+            'gt_std_D': round(float(g_ne.gt_D_um.std()), 1) if len(g_ne) > 1 else np.nan,
+            'm_std_D': round(float(np.std(diam_um(msize[m_ne]), ddof=1)), 1) if len(m_ne) > 1 else np.nan}
+    if len(g_ne) > 1 and len(m_ne) > 1:
+        from scipy.stats import ks_2samp, wasserstein_distance
+        _g = g_ne.gt_D_um.values.astype(float); _m = diam_um(msize[m_ne]).astype(float)
+        summ['KS_stat'] = round(float(ks_2samp(_g, _m).statistic), 3)
+        summ['Wasserstein_um'] = round(float(wasserstein_distance(_g, _m)), 1)
+    else:
+        summ['KS_stat'] = summ['Wasserstein_um'] = np.nan
     return summ, gdf
 
 
@@ -310,7 +319,7 @@ def main():
     pd.set_option('display.width', 250); pd.set_option('display.max_columns', 60)
     core = ['method', 'n_gt', 'detected', 'merged', 'merged_true', 'merged_leak', 'split', 'missed', 'other', f'recall@{a.iou}',
             f'recall@{a.alt_iou}', 'n_method', 'precision_lb', 'merge_events']
-    size_cols = ['method', 'n_size_pairs', 'median_D_ratio', 'MAPE_D_pct', 'gt_median_D', 'm_median_D', 'gt_mean_D', 'm_mean_D']
+    size_cols = ['method', 'n_size_pairs', 'median_D_ratio', 'MAPE_D_pct', 'gt_median_D', 'm_median_D', 'gt_mean_D', 'm_mean_D', 'gt_std_D', 'm_std_D', 'KS_stat', 'Wasserstein_um', 'mean_iou_det', 'n_gt_nonedge', 'n_m_nonedge']
     nc_cols = ['method', 'n_gt_nc', f'recall@{a.iou}_nc', 'median_D_ratio_nc']
     for fl in a.floors:
         sub = S[S.floor_vox == fl]

@@ -22,9 +22,12 @@ python3 score_instances.py --gt "/Volumes/My Passport/roi5" --methods-dir ~/gt40
 # roi + oracle
 python3 score_instances.py --gt "/Volumes/My Passport/roi5" --methods-dir ~/gt400_out --gt-slices 90 --out ~/gt400_scores_roi_oracle --floors 67 227 --roi auto --oracle-fg
 ```
-Note: `results/standard` and `results/oracle` were produced with an earlier revision of
-`score_instances.py` that had no `--roi` option and no `merged_true`/`merged_leak` columns.
-`results/roi` and `results/roi_oracle` were produced with the revision committed here.
+Size-distribution agreement is reported as the two-sample KS statistic and Wasserstein distance (um) between method and reference equivalent diameters, non-edge grains only.
+
+Note: `results/standard`, `results/roi` and `results/roi_oracle` were produced with the
+`score_instances.py` revision committed here. `results/oracle` (non-ROI oracle run) was produced
+with an earlier revision that had no `--roi` option, no `merged_true`/`merged_leak` columns and
+no KS_stat/Wasserstein_um columns.
 
 ## Parameters
 - Voxel size 19.8 um. Size floors: 67 voxels (100 um) and 227 voxels (150 um).
